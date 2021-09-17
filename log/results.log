@@ -1,0 +1,5 @@
+2021-09-17 10:13:22 error [www]: GET /hello Not Found
+2021-09-17 10:14:21 error [www]: GET /hello Not Found
+2021-09-17 10:14:25 error [www]: GET / a is not defined
+2021-09-17 10:14:28 error [www]: GET / a is not defined
+2021-09-17 10:51:24 error [www]: GET /helloworld Not Found
